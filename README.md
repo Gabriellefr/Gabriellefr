@@ -2,7 +2,7 @@
 
 - 👩🏽‍💻Atualmente trabalhando como tecnico-informatica
 - 📒Estudando Python
-- 👩🏽‍🦱Pronouns: ela/dela
+
  
 ##
 
