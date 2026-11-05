@@ -57,3 +57,13 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 </a>
 
 </div>
+
+
+---
+
+### 🐍 Minhas contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gabriellefr/Gabriellefr/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
